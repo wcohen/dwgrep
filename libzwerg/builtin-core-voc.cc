@@ -1,4 +1,5 @@
 /*
+   Copyright (C) 2018 Petr Machata
    Copyright (C) 2014 Red Hat, Inc.
    This file is part of dwgrep.
 
@@ -35,6 +36,7 @@
 #include "value-seq.hh"
 #include "value-str.hh"
 
+#include "builtin-core-voc.hh"
 #include "builtin-closure.hh"
 #include "builtin-cmp.hh"
 #include "builtin-cst.hh"
